@@ -1,0 +1,5 @@
+Pygame
+tkinter (inbuilt)
+pyperclip
+hashlib (inbuilt)
+sqlite3(inbuilt)
